@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Dhanush Ram
 
-<!--
-**dhanushramofficial-web/dhanushramofficial-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Java
+- Git & GitHub
+- HTML, CSS, JavaScript
+
+## Projects
+
+### MERN Job Portal
+A job portal application with authentication and job management.
+
+### Expense Tracker
+Track income and expenses with analytics.
+
+### Portfolio Website
+Personal portfolio built using React.
+
+## Currently Learning
+
+- Advanced React
+- Node.js APIs
+- System Design Basics
+
+## Contact
+
+📧 dhanushramofficial@gmail.com
